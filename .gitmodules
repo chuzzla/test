@@ -7,3 +7,6 @@
 [submodule "submodulAsGit"]
 	path = submodulAsGit
 	url = https://github.com/chuzzla/submodule.git
+[submodule "submodulAsGit2"]
+	path = submodulAsGit2
+	url = https://github.com/chuzzla/submodule.git
